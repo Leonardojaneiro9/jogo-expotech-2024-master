@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 478dcdbef053a72429890b49adb6c037
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Midnight Letters
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 630d301cf6f3427478e03c14cd752029, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
